@@ -1,5 +1,5 @@
 window.addEventListener("load", () => {
     document.body.addEventListener("keypress", () => {
-        document.getElementById('radioLog').append("hello")
+        document.getElementById('radioLog').append("hello ")
     })
 })
